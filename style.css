@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgb(91, 121, 180);
+}
+
+#container{
+    background-color: rgb(147, 174, 243);
+    height: 400px;
+
+
+}
+
+
+#displayOptions{
+    margin-top: 50px;  
+}
+
+
+#firstdiv{
+    height:100px;
+    background-color: rgb(79, 106, 136);
+    display: flex;
+    justify-content: space-evenly;
+}
